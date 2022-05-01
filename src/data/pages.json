@@ -1,0 +1,23 @@
+[
+  {
+    "name": "HOME",
+    "title": "Welcome to your website",
+    "slug": "/",
+    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit condimentum commodo. Etiam laoreet, erat a vulputate scelerisque, sem lectus pharetra odio, feugiat viverra lectus nibh efficitur est. Donec neque nisl, vestibulum in nibh vel, dignissim lobortis mauris. Pellentesque luctus rutrum convallis. Nam vel rutrum arcu, eu tincidunt orci. Pellentesque justo velit, volutpat et libero sit amet, venenatis eleifend leo. Duis tincidunt at odio eget pulvinar. Integer dolor lacus, gravida id vulputate vitae, rhoncus non metus. Integer id viverra leo, eget pulvinar enim. Etiam porttitor scelerisque fringilla. Suspendisse porta nulla et nibh porta convallis. In id nisi dignissim erat rhoncus semper vitae semper tellus. Sed ac mauris leo. Vestibulum nisi diam, congue quis feugiat non, aliquam et sapien. Praesent rhoncus finibus mauris, vulputate bibendum velit pharetra et. Aliquam erat volutpat. Proin augue nibh, ullamcorper et fringilla et, tempus non magna. Cras vel magna interdum, auctor est a, lobortis nulla. Quisque nec risus eu dolor accumsan viverra eget id nibh. Donec fermentum tincidunt nibh, nec rhoncus lectus iaculis euismod. Phasellus sit amet purus turpis. Vestibulum molestie leo leo, vitae consequat felis pretium quis. Aliquam a dui quis nisl aliquam scelerisque. Praesent auctor fermentum vehicula. In convallis dignissim turpis, nec ullamcorper nunc congue et.<p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc suscipit condimentum commodo. Etiam laoreet, erat a vulputate scelerisque, sem lectus pharetra odio, feugiat viverra lectus nibh efficitur est. Donec neque nisl, vestibulum in nibh vel, dignissim lobortis mauris. Pellentesque luctus rutrum convallis. Nam vel rutrum arcu, eu tincidunt orci. Pellentesque justo velit, volutpat et libero sit amet, venenatis eleifend leo. Duis tincidunt at odio eget pulvinar. Integer dolor lacus, gravida id vulputate vitae, rhoncus non metus. Integer id viverra leo, eget pulvinar enim. Etiam porttitor scelerisque fringilla. Suspendisse porta nulla et nibh porta convallis. In id nisi dignissim erat rhoncus semper vitae semper tellus. Sed ac mauris leo. Vestibulum nisi diam, congue quis feugiat non, aliquam et sapien. Praesent rhoncus finibus mauris, vulputate bibendum velit pharetra et. Aliquam erat volutpat. Proin augue nibh, ullamcorper et fringilla et, tempus non magna. Cras vel magna interdum, auctor est a, lobortis nulla. Quisque nec risus eu dolor accumsan viverra eget id nibh. Donec fermentum tincidunt nibh, nec rhoncus lectus iaculis euismod. Phasellus sit amet purus turpis. Vestibulum molestie leo leo, vitae consequat felis pretium quis. Aliquam a dui quis nisl aliquam scelerisque. Praesent auctor fermentum vehicula. In convallis dignissim turpis, nec ullamcorper nunc congue et.<p>",
+    "isHome": true
+  },
+  {
+    "name": "ABOUT",
+    "title": "A bit about ourselves..",
+    "slug": "about",
+    "content": "hallokes",
+    "isHome": false
+  },
+  {
+    "name": "CONTACT",
+    "title": "Contact us.",
+    "slug": "contact",
+    "content": "contact our support team",
+    "isHome": false
+  }
+]
